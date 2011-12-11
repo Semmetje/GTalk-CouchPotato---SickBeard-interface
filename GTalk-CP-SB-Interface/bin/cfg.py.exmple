@@ -1,0 +1,8 @@
+'''
+Created on Dec 11, 2011
+
+@author: sem
+'''
+login='email@gmail.com'
+password='password'
+couchpotato="192.168.0.1:5000"
